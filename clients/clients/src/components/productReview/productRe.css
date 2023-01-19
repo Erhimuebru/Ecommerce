@@ -1,0 +1,89 @@
+.productReview{
+    margin-top: 5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    
+}
+
+.productsRe-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 3.5rem;
+}
+
+.rewive-img{
+height: 600px;
+width: 400px;
+}
+
+.rewive-im{
+    height: 600px;
+    width: 400px;
+    }
+
+    .rewive-i{
+        height: 300px;
+        /* padding-top: 1rem; */
+        /* width: 200px; */
+        }
+        .rewive-ii{
+            height: 300px;
+            padding-top: 1rem;
+            width: 450px;
+            }
+    
+
+.pack{
+    display: flex;
+    gap: 1.5rem;
+}
+.p{
+    color: #198754;
+}
+
+.packdown{
+    margin-top: 4rem;
+}
+.packd{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /* gap: 25rem; */
+}
+.rite-text{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+    color: #198754;
+}
+
+.pack-p{
+    color: gray;
+}
+h5,h3{
+    color: #198754;
+}
+
+button{
+
+    gap: 4rem;
+    font-weight: bolder;
+    text-decoration: none;
+    transition: all 0.3s ease 0s;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    margin-left: 0.5rem;
+    background-color:#198754 ;
+
+}
+.size-btn{
+    padding-top: 4rem;
+    /* margin-left: 20rem; */
+}
+.rite-p{
+    padding-top: 2rem;
+    margin-left: 20rem;
+}
